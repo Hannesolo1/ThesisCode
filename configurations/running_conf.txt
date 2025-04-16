@@ -1,0 +1,8 @@
+For the final running, I am using the following configuration:
+train_nc_gnn_optimized: 3 iterations for 3000 epochs
+feature_learning_gnn: 20000 epochs
+
+leiden old, stands for basic leiden
+leiden stands for leiden_modified
+in the excel file the names are changes os that leiden modified means leiden modified
+and leiden old means leiden
